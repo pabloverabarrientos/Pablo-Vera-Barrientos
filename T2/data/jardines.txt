@@ -1,0 +1,8 @@
+vacio!X,X,X,X,X;X,X,X,X,X;X,X,X,X,X;X,X,X,X,X;X,X,X,X,X
+4x3_defensivo!D,X,D;X,X,X;X,X,X;D,X,D
+5x5_ponteciado!X,X,X,X,X;X,X,P,X,X;X,X,P,X,X;X,X,P,X,X;X,X,X,X,X
+jardin_pequeño!X,X;X,X
+jardin_variado!X,X,X,X,X;X,S,D,P,X;X,A,C,F,X;X,X,X,X,X
+jardin_abundante!X,X,X,X,X,X,X;X,C,X,C,X,C,X;X,X,X,X,X,X,X;X,C,X,C,X,C,X;X,X,X,X,X,X,X
+jardin_estrecho!X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+jardin_completo!S,S,S,S;S,S,S,S;S,S,S,S;S,S,S,S
