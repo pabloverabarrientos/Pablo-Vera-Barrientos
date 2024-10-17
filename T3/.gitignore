@@ -1,0 +1,6 @@
+*.csv
+*.zip
+Enunciado.pdf
+/data
+/tests_publicos
+utilidades.py
